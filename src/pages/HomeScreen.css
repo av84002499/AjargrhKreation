@@ -1,0 +1,373 @@
+.image-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 155px;
+  height: 170px;
+  object-fit: cover;
+}
+.love-icon {
+  position: absolute;
+  top: 15px;
+  left: 120px;
+  width: 20px;
+  height: 20px;
+}
+.the-marc-jacobs {
+  margin: 0;
+  font-weight: 600;
+}
+.traveler-tote {
+  margin: 0;
+  font-size: var(--font-size-2xs);
+  color: var(--color-dimgray);
+}
+.the-marc-jacobs-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 150%;
+}
+.product-01,
+.text2 {
+  position: absolute;
+  top: 181px;
+  left: 19px;
+  width: 125px;
+  height: 59px;
+}
+.product-01 {
+  top: 38px;
+  left: 1px;
+  width: 155px;
+  height: 240px;
+}
+.product-02,
+.text3 {
+  position: absolute;
+  top: 181px;
+  left: 8px;
+  width: 138px;
+  height: 59px;
+}
+.product-02 {
+  top: 38px;
+  left: 171px;
+  width: 155px;
+  height: 240px;
+}
+.new-arrivals1,
+.view-all {
+  position: absolute;
+  line-height: 150%;
+}
+.view-all {
+  top: 5px;
+  left: 284px;
+  font-weight: 600;
+}
+.new-arrivals1 {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+}
+.new-arrivals,
+.title3 {
+  position: absolute;
+  width: 328px;
+}
+.title3 {
+  top: 0;
+  left: 0;
+  height: 27px;
+  text-align: left;
+  font-size: var(--font-size-2xs);
+  color: var(--color-dimgray);
+}
+.new-arrivals {
+  top: 470px;
+  left: 24px;
+  height: 278px;
+  text-align: center;
+}
+.bg-inner {
+  border-radius: var(--br-11xl) var(--br-11xl) 0 0;
+  background-color: var(--color-white);
+  box-shadow: 0-2px 7px rgba(0, 0, 0, 0.1);
+}
+.bg-inner,
+.bg2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 70px;
+}
+.cart-icon,
+.notification-icon,
+.profile-icon {
+  position: absolute;
+  height: 22.86%;
+  width: 3.41%;
+  top: 30%;
+  right: 12.59%;
+  bottom: 47.14%;
+  left: 84%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.cart-icon,
+.notification-icon {
+  width: 3.63%;
+  top: 31.43%;
+  right: 30.24%;
+  bottom: 45.71%;
+  left: 66.13%;
+}
+.cart-icon {
+  width: 4.36%;
+  right: 47.91%;
+  left: 47.73%;
+}
+.rectangle-div {
+  position: absolute;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke-100);
+}
+.bg3,
+.rectangle-div {
+  top: 0;
+  left: 0;
+  width: 76px;
+  height: 30px;
+}
+.bg3,
+.home1,
+.text4 {
+  position: absolute;
+}
+.home1 {
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.text4 {
+  top: 8px;
+  left: 34px;
+  width: 34px;
+  height: 17px;
+}
+.home,
+.home-icon,
+.navegation-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 30px;
+  height: 30px;
+}
+.home,
+.navegation-bar {
+  top: 15px;
+  left: 50px;
+  width: 76px;
+}
+.navegation-bar {
+  top: 742px;
+  left: 0;
+  width: 375px;
+  height: 70px;
+  font-size: var(--font-size-2xs);
+}
+.button-child,
+.image-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.image-icon3 {
+  width: 260px;
+  height: 160px;
+  object-fit: cover;
+}
+.button-child {
+  border-radius: var(--br-11xl);
+  background-color: var(--color-black);
+  width: 70px;
+  height: 25px;
+}
+.get-now {
+  position: absolute;
+  top: 5px;
+  left: 13px;
+  line-height: 150%;
+}
+.button1 {
+  position: absolute;
+  top: 101px;
+  left: 0;
+  width: 70px;
+  height: 25px;
+}
+.with-codefscreation {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 150%;
+  font-weight: 600;
+}
+.code {
+  position: absolute;
+  top: 69px;
+  left: 0;
+  width: 128px;
+  height: 17px;
+  font-size: var(--font-size-2xs);
+  color: var(--color-dimgray);
+}
+.off {
+  margin: 0;
+}
+.on-everything-today {
+  margin: 0;
+  font-size: var(--font-size-base);
+}
+.offer,
+.title4 {
+  position: absolute;
+  width: 163px;
+}
+.title4 {
+  top: 0;
+  left: 0;
+  height: 59px;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+}
+.offer {
+  top: 17px;
+  left: 15px;
+  height: 126px;
+}
+.features,
+.features-01,
+.features-02 {
+  position: absolute;
+  top: 0;
+  left: 275px;
+  width: 260px;
+  height: 160px;
+}
+.features,
+.features-01 {
+  left: 0;
+}
+.features {
+  top: 285px;
+  left: 25px;
+  width: 535px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-white);
+}
+.bg-child1,
+.filtter-icon {
+  position: absolute;
+  top: 0;
+  left: 275px;
+  width: 50px;
+  height: 50px;
+}
+.bg-child1 {
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: #f3f4f5;
+  width: 260px;
+}
+.icon1 {
+  position: absolute;
+  height: 35%;
+  width: 6.58%;
+  top: 32.5%;
+  right: 83.7%;
+  bottom: 32.5%;
+  left: 9.71%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.search,
+.text5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.text5 {
+  top: 17px;
+  left: 58px;
+  width: 54px;
+  height: 20px;
+}
+.search-bar,
+.sesrch-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 260px;
+  height: 50px;
+}
+.sesrch-bar {
+  top: 205px;
+  left: 25px;
+  width: 325px;
+  font-size: 13px;
+  color: var(--color-darkgray);
+}
+.our-fashions-app {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--color-dimgray);
+}
+.welcome-our-fashions-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 160%;
+}
+.menu-bar-icon1,
+.title6 {
+  position: absolute;
+  left: 25px;
+}
+.title6 {
+  top: 116px;
+  width: 179px;
+  height: 70px;
+  font-size: var(--font-size-6xl);
+}
+.menu-bar-icon1 {
+  top: 44px;
+  width: 325px;
+  height: 50px;
+}
+.home-screen-child {
+  position: absolute;
+  top: 41px;
+  left: 297px;
+  width: 56px;
+  height: 56px;
+  object-fit: cover;
+}
+.home-screen {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

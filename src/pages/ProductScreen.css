@@ -1,0 +1,408 @@
+.image-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 430px;
+  object-fit: cover;
+}
+.bg-child {
+  border-radius: var(--br-11xl) var(--br-11xl) 0 0;
+  background-color: var(--color-white);
+}
+.bg,
+.bg-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 412px;
+}
+.bg-item {
+  border-radius: var(--br-11xl);
+  background-color: var(--color-black);
+  width: 200px;
+  height: 50px;
+}
+.bg-item,
+.bg1,
+.buy-now {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.bg1 {
+  width: 200px;
+  height: 50px;
+}
+.buy-now {
+  line-height: 100%;
+  font-weight: 600;
+}
+.text {
+  top: 17px;
+  left: 69px;
+  width: 70px;
+  height: 16px;
+}
+.button,
+.icon,
+.text {
+  position: absolute;
+}
+.icon {
+  height: 35%;
+  width: 8.28%;
+  top: 32.5%;
+  right: 73.1%;
+  bottom: 32.5%;
+  left: 18.63%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.button {
+  top: 336px;
+  left: 150px;
+  width: 200px;
+  height: 50px;
+  font-size: var(--font-size-base);
+}
+.p,
+.total-price {
+  margin: 0;
+}
+.p {
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+}
+.total-price-19800-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 100%;
+}
+.price {
+  position: absolute;
+  top: 346px;
+  left: 25px;
+  width: 70px;
+  height: 29px;
+  font-size: 9px;
+  color: var(--color-darkgray);
+}
+.get-a-little,
+.text1,
+.title {
+  position: absolute;
+  width: 325px;
+  height: 46px;
+}
+.get-a-little {
+  top: 0;
+  left: 0;
+  line-height: 150%;
+  display: inline-block;
+}
+.text1,
+.title {
+  top: 39px;
+  left: 1px;
+}
+.title {
+  top: 0;
+  left: 0;
+  width: 93px;
+  height: 24px;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.description {
+  position: absolute;
+  top: 219px;
+  left: 24px;
+  width: 326px;
+  height: 85px;
+  color: var(--color-dimgray);
+}
+.xl-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 40px;
+  height: 40px;
+}
+.xl1 {
+  top: 10px;
+  left: 12px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.xl,
+.xl1,
+.xxl {
+  position: absolute;
+}
+.xl {
+  top: 0;
+  left: 165px;
+  width: 40px;
+  height: 40px;
+}
+.xxl {
+  top: 10px;
+  left: 7px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.l-child,
+.xl2 {
+  top: 0;
+  width: 40px;
+  height: 40px;
+}
+.xl2 {
+  position: absolute;
+  left: 220px;
+}
+.l-child {
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-black);
+}
+.l,
+.l-child,
+.l1 {
+  position: absolute;
+}
+.l1 {
+  top: 10px;
+  left: 16px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.l {
+  top: 0;
+  left: 110px;
+  width: 40px;
+  height: 40px;
+  color: var(--color-white);
+}
+.m1 {
+  top: 10px;
+  left: 13px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.m,
+.m1,
+.s1 {
+  position: absolute;
+}
+.m {
+  top: 0;
+  left: 55px;
+  width: 40px;
+  height: 40px;
+}
+.s1 {
+  top: 10px;
+  left: 15px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.s,
+.size,
+.size1,
+.title1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 40px;
+}
+.size,
+.size1,
+.title1 {
+  top: 36px;
+  left: 1px;
+  width: 260px;
+}
+.size,
+.title1 {
+  top: 0;
+  left: 0;
+  width: 32px;
+  height: 24px;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.size {
+  top: 118px;
+  left: 24px;
+  width: 261px;
+  height: 76px;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray);
+}
+.avaliable-in-stok {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 150%;
+  font-weight: 600;
+}
+.stok {
+  position: absolute;
+  top: 51px;
+  left: 234px;
+  width: 93px;
+  height: 17px;
+}
+.pice-range-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke-100);
+  width: 70px;
+  height: 30px;
+}
+.div {
+  position: absolute;
+  top: 5px;
+  left: 14px;
+  line-height: 150%;
+}
+.pice-range {
+  position: absolute;
+  top: 10px;
+  left: 255px;
+  width: 70px;
+  height: 30px;
+  font-size: var(--font-size-sm);
+}
+.star-icon {
+  position: absolute;
+  height: 64.71%;
+  width: 48.45%;
+  top: 17.65%;
+  right: 51.55%;
+  bottom: 17.65%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.review1 {
+  position: absolute;
+  top: 0;
+  left: 85px;
+  line-height: 150%;
+}
+.review {
+  position: absolute;
+  height: 22.67%;
+  width: 47.71%;
+  top: 77.33%;
+  right: 52.29%;
+  bottom: 0;
+  left: 0;
+}
+.roller-rabbit {
+  margin: 0;
+  font-weight: 600;
+}
+.vado-odelle-dress {
+  margin: 0;
+  font-size: var(--font-size-2xs);
+  color: var(--color-dimgray);
+}
+.roller-rabbit-vado-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 208%;
+}
+.title2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 121px;
+  height: 56px;
+  font-size: var(--font-size-lg);
+}
+.product-meta {
+  position: absolute;
+  top: 20px;
+  left: 25px;
+  width: 327px;
+  height: 75px;
+  color: var(--color-black);
+}
+.product-details {
+  position: absolute;
+  top: 400px;
+  left: 0;
+  width: 375px;
+  height: 412px;
+}
+.div1,
+.menu-bar-icon {
+  position: absolute;
+  top: 44px;
+  left: 25px;
+  width: 325px;
+  height: 35px;
+}
+.div1 {
+  top: 2.73px;
+  left: 0;
+  display: inline-block;
+  width: 31.79px;
+  height: 19.13px;
+}
+.bibattery-half-icon,
+.fa-solidwifi-icon {
+  position: absolute;
+  top: 6.38px;
+  left: 294.31px;
+  width: 13.63px;
+  height: 10.93px;
+  overflow: hidden;
+}
+.bibattery-half-icon {
+  top: 0;
+  left: 313.38px;
+  width: 23.62px;
+  height: 23.68px;
+}
+.mobile-tab-1,
+.mobile-tab-1-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 337px;
+  height: 23.68px;
+}
+.mobile-tab-1-wrapper {
+  top: 11px;
+  left: 20px;
+  font-size: 16.39px;
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
+.product-screen {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-2xs);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
